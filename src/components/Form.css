@@ -1,0 +1,63 @@
+.form-bg {
+    width: 340px;
+    height: 430px;
+    background-color: #1D1C30;
+    border: 2px greenyellow;
+    border-radius: 15px;
+}
+
+.css-e53awj-MuiStack-root {
+    margin-top: 41px;
+    margin-left: 27px;
+}
+
+.css-e53awj-MuiStack-root button {
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.css-xn6ruc>:not(style) {
+    margin: 17px !important;
+    width: 32ch !important;
+}
+
+.css-1ptx2yq-MuiInputBase-root-MuiInput-root:before {
+    border-bottom: 2px solid rgb(247 241 241 / 42%) !important;
+    left: 0;
+    bottom: 0;
+    content: "\00a0";
+    position: absolute;
+    right: 0;
+    -webkit-transition: border-bottom-color 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: border-bottom-color 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    pointer-events: none;
+}
+
+.search-btn Button {
+    background-color: #C99C55;
+    border-radius: 20px;
+    margin-left: 8px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+#standard-basic {
+    color: white;
+}
+
+.MuiFormControl-root label {
+    color: #C99C55;
+}
+
+.MuiOutlinedInput-root {
+    color: white !important;
+    margin-left: -14px !important;
+}
+
+.MuiSvgIcon-root {
+    color: #C99C55 !important;
+}
+
+.MuiBox-root {
+    margin-right: -17px !important;
+}
